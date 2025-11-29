@@ -1,0 +1,23 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Arquivos de Log
+*.log
+pipeline_log.txt
+
+# Arquivos de Sistema/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Dados (Opcional - Se quiser subir o CSV de exemplo, tire a linha abaixo)
+# data/*.jsonl
+
+# Arquivos temporários do Scrapy
+.scrapy/
